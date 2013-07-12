@@ -5,5 +5,4 @@
 // @namespace test
 // @include http://*.sengokuixa.jp/*
 // @updateURL https://raw.github.com/metameta/test/master/test.meta.js
-// @iconURL https://github.com/downloads/metameta/test/icon_64.png
 // ==/UserScript==
